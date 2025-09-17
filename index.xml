@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/puslapis-paveikslelis/</link>
       <pubDate>Wed, 17 Sep 2025 13:19:39 +0300</pubDate>
       <guid>http://localhost:1313/posts/puslapis-paveikslelis/</guid>
-      <description></description>
+      <description>&lt;p&gt;Pora sakiniu. Pora sakiniu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo Labke v2</title>
@@ -21,6 +21,13 @@
       <pubDate>Wed, 17 Sep 2025 12:49:24 +0300</pubDate>
       <guid>http://localhost:1313/posts/hugo-labke/</guid>
       <description>&lt;p&gt;Pora sakiniu. Pora sakiniu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hello/</guid>
+      <description>&lt;p&gt;Hello world puslapis&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
