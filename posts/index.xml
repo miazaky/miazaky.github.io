@@ -6,14 +6,21 @@
     <description>Recent content in Posts on Hugo labke</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 2025 12:49:24 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 13:19:39 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puslapis Paveikslelis</title>
+      <link>http://localhost:1313/posts/puslapis-paveikslelis/</link>
+      <pubDate>Wed, 17 Sep 2025 13:19:39 +0300</pubDate>
+      <guid>http://localhost:1313/posts/puslapis-paveikslelis/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hugo Labke v2</title>
       <link>http://localhost:1313/posts/hugo-labke/</link>
       <pubDate>Wed, 17 Sep 2025 12:49:24 +0300</pubDate>
       <guid>http://localhost:1313/posts/hugo-labke/</guid>
-      <description></description>
+      <description>&lt;p&gt;Pora sakiniu. Pora sakiniu.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
